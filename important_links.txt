@@ -1,0 +1,4 @@
+http://python.langchain.com/v0.1/docs/integrations/tools/
+https://console.groq.com/home?utm_source=website&utm_medium=outbound_link&utm_campaign=dev_console_click
+https://python.langchain.com/v0.1/docs/modules/agents/agent_types/
+https://arxiv.org/abs/2210.03629

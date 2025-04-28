@@ -1,0 +1,12 @@
+dotenv
+langchain_google_genai
+chromadb
+langchain_groq
+langchain_community
+wikipedia
+youtube_search
+langchain_huggingface
+faiss-cpu
+httpx
+langgraph
+streamlit
